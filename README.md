@@ -23,7 +23,10 @@ git push -u origin master
 git add README.md
 git commit -m 'update README.md'
 git push origin master
+...
 ```
+Screenshot:
+<img src="carbon.png">
 
 To push changes to GitHub repository I used SSH (officialy recommended way).
 That's why additional steps were generating and adding SSH keys folowing these instructions:
