@@ -1,1 +1,1 @@
-print('Veronika Veronika Tkachuk', 'group')
+print('Veronika Tkachuk, 6-2025')
