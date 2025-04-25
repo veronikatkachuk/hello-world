@@ -28,7 +28,14 @@ git push origin master
 Screenshot:
 <img src="carbon.png">
 
-To push changes to GitHub repository I used SSH (officialy recommended way).
+## To push changes to GitHub repository I used SSH (officialy recommended way).
 That's why additional steps were generating and adding SSH keys folowing these instructions:
 [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+## Example output
+
+```terminaloutput
+(python-for-big-data-and-data-science) veronika@veronika:~/PycharmProjects/python-for-big-data-and-data-science$ python python_practice_1.py 
+Veronika Tkachuk, 6-2025
+```
